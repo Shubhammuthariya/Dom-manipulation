@@ -8,3 +8,5 @@ let temp2 = document.getElementById("main-header")
 console.log(document.getElementById("main-header"))
 temp2.style.borderBottom = 'solid 5px #000';
 temp.style.color = "grey"
+
+
